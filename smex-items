@@ -1,0 +1,43 @@
+
+;; ----- smex-history -----
+(
+ R
+ shell
+ electric-pair-mode
+ electric-indent-mode
+ gomoku
+ snake
+ org-mode
+)
+
+;; ----- smex-data -----
+(
+ (wsm . 45)
+ (artist-mode . 2)
+ (customize-variable . 2)
+ (electric-pair-mode . 45)
+ (electric-pair . 1)
+ (julia . 9)
+ (imenu . 1)
+ (package-refresh-contents . 1)
+ (describe-variable . 1)
+ (R . 41)
+ (IPython . 5)
+ (describe-font . 1)
+ (shell . 18)
+ (py-shell-switch-buffers-on-execute-on . 1)
+ (gomoku . 56)
+ (R-3\.2\.1-64bit . 1)
+ (org-mode . 2)
+ (list-packages . 1)
+ (ipy . 2)
+ (select-frame . 1)
+ (ipython . 2)
+ (snake . 8)
+ (S . 1)
+ (latex-preview-pane-mode . 2)
+ (aggressive-indent-mode . 2)
+ (electric-indent-mode . 4)
+ (ess-version . 1)
+ (R-newest . 1)
+)
